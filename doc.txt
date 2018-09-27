@@ -1,0 +1,16 @@
+Tools 
+Backend
+- Node JS
+- Express JS
+- MariaDB
+
+Hosting API
+- Google Cloud Platform - App Engine
+
+Src Repository at GitHub
+- https://github.com/meusginting/js-bambuapi.git
+
+
+
+Test URL
+https://bambuapi-217706.appspot.com/people-like-you/age=23&latitude=40.71667&longtitude=19.56667&monthlyincome=5500&experienced=false
