@@ -5,11 +5,7 @@ With a data in this repo, build an API that sends 10 potential investor similar 
 
     the endpoint is exposed at people-like-you
     each of the terms in the query parameters is optional
-    the endpoint returns a JSON response with an array of scored suggested matches
-        1. the suggestions are sorted by descending score
-        2. each suggestion has a score between 0 and 1 indicating confidence in the suggestion (1 is most confident)
-
-
+    
 Guidelines
 
     Your code should be written in JS
