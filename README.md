@@ -1,5 +1,6 @@
-# js-bambuapi
-Backend Code Chalange from Bambuapi
+# js-Create API using node.js 
+
+Backend Code Chalange 
 
 With a data in this repo, build an API that sends 10 potential investor similar with a person described in the query parameters.
 
